@@ -1,0 +1,13 @@
+{
+    "name": "thawy/patterns",
+    "authors": [
+        {
+            "name": "Ruslan Terekhov",
+            "email": "r.terekhov@levi9.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {"Terekhov\\": "src"}
+    },
+    "require": {}
+}
